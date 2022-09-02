@@ -1,5 +1,5 @@
 # Challenge-API
-Welcome to the Xal Challenge
+Welcome to the XalDigital Challenge
 
 To consume the service with sample data we have 3 methods
 
